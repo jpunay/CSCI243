@@ -6,3 +6,4 @@ This file will contain README information for our project. # CSCI243
 
 * item 1 should be considered 
 * item 2 is also really important
+* item 3 is pretty important too...
